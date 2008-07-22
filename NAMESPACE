@@ -1,0 +1,17 @@
+export(
+       "classW",
+       "functionClassicA"
+       )
+exportMethods(
+    "[",
+    "[<-",
+    "plot",
+    "publicA",
+    "publicB"
+)
+exportClasses(
+     "ClassV",
+     "ClassW"
+)
+
+import(graphics)

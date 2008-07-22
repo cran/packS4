@@ -1,0 +1,13 @@
+exportPattern("^[[:alpha:]]+")
+exportMethods(
+    "[",
+    "plot",
+    "privateA",
+    "publicA",
+    "publicB" 
+)
+exportClasses(
+    "ClassU",
+     "ClassV",
+     "ClassW" 
+)
