@@ -1,4 +1,4 @@
-\name{publicA-methods}
+\name{publicA-ClassV-methods}
 \docType{methods}
 \alias{publicA,ClassV-method}
 \title{publicA for ClassV}

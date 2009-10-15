@@ -1,5 +1,6 @@
 \name{packS4-package}
 \Rdversion{1.1}
+\alias{packS4}
 \alias{packS4-package}
 \docType{package}
 
@@ -13,8 +14,8 @@
   \tabular{ll}{
     Package: \tab packS4\cr
     Type: \tab Package\cr
-    Version: \tab 0.5\cr
-    Date: \tab 2009-05-26\cr
+    Version: \tab 0.5.2\cr
+    Date: \tab 2009-10-15\cr
     License: \tab GPL (>=2.0)\cr
     LazyLoad: \tab yes\cr
     Depends: \tab methods,graphics\cr

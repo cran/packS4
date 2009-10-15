@@ -18,9 +18,9 @@
 \section{Methods}{
   \describe{
     \item{plot}{\code{signature(x = "ClassV")}: for more detail, see
-      \code{\link[packS4:plot-method]{plot for ClassV} }}
+      \code{\link[packS4:plot-methods]{plot for ClassV} }}
     \item{publicA}{\code{signature(object = "ClassV")}: for more detail, see
-      \code{\link[packS4:plot-method]{plot for ClassV} }}
+      \code{\link[packS4:plot-methods]{plot for ClassV} }}
   }
 }
 
