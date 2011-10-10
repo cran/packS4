@@ -1,6 +1,7 @@
 export(
        "classW",
-       "functionClassicA"
+       "functionClassicA",
+       "classCreator"
        )
 exportMethods(
     "[",
