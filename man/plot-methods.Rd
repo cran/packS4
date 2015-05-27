@@ -1,6 +1,6 @@
 \name{plot-methods}
 \docType{methods}
-\alias{plot-methods}
+%\alias{plot-methods}
 \alias{plot,ClassU-method}
 \alias{plot,ClassV-method}
 \alias{plot,ClassW-method}

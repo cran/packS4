@@ -8,7 +8,7 @@
 classCreator(name,field,type)
 }
 \arguments{
-  \item{name}{[character] Name of the class.}
+  \item{name}{[character] Name of the class (with its first letter in upper case.}
   \item{field}{[vector(character)] Name(s) of the field of the class.}
   \item{type}{[vector(character)] Type of the field of the class.}
 }
@@ -25,7 +25,7 @@ classCreator(name,field,type)
 }
 
 \examples{
-classCreator("complex",c("xx","yy"),c("numerix","numeric"))
+classCreator("Complex",c("xx","yy"),c("numerix","numeric"))
 }
 
 \keyword{documentation}

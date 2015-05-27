@@ -1,7 +1,9 @@
 export(
        "classW",
        "functionClassicA",
-       "classCreator"
+       "classCreator",
+       "detectGlobal",
+       "tryBug"
        )
 exportMethods(
     "[",
@@ -15,4 +17,4 @@ exportClasses(
      "ClassW"
 )
 
-import(graphics)
+import(methods,graphics,codetools)
